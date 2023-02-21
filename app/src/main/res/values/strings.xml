@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">myPortfolio</string>
+    <string name="nama">Rehan Kurnia Hidayat</string>
+    <string name="position">Mobile Developer</string>
+    <string name="kontentext">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industrys standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</string>
+    <string name="job1">Sys. Admin at PT Kreatif Solusindo</string>
+    <string name="edu">Gunadarma University</string>
+
+    <string name="skillsset">Laravel\nTailWindCSS\nKotlin</string>
+    <string name="interset">Web Dev\nMobile Dev\nCyber Security</string>
+
+    <string name="email">Email : rehankurnia@gmail.com</string>
+    <string name="phone">Phone : +62 896 3620 4123</string>
+    <string name="github">Github : github.com/gochujjang</string>
+
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
